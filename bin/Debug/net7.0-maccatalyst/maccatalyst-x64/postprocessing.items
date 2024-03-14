@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Narsil eBook Reader.app/Contents/MacOS/Narsil eBook Reader">
+      <BCSymbolMapName>Narsil eBook Reader.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Narsil eBook Reader.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/macbook-beni/Documents/Licenta/Narsil eBook Reader/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Narsil eBook Reader.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/macbook-beni/Documents/Licenta/Narsil eBook Reader</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
